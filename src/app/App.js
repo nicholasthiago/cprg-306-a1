@@ -1,4 +1,22 @@
 /**
+ * @author Nicholas Thiago Cabral Xavier da Costa [ 000866034 ]
+ * @date 10-08-2023
+ * 
+ * Assignment 01 : App Description
+ * - 3 Tabs with Temperature, Weight and Distance converters
+ * - Alerts if no conversion were selected
+ * 
+ * @return onInput : returns updated converted value
+ * 
+ * @input User Guidelines:
+ * - Selects unit type [ distance, weight, temperature ]
+ * - Selects conversion way [ km to lb, km to miles... ]
+ * - Inputs the value to be converted
+ * 
+ * App Stack :
+ * - React.JS
+ * - TailwindCSS
+ * - Github Pages ( deployment )
  * 
  */
 
