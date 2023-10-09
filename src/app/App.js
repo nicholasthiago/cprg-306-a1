@@ -1,5 +1,5 @@
 /**
- * @author Nicholas Thiago Cabral Xavier da Costa [ 000866034 ]
+ * @author Nicholas Thiago Cabral Xavier da Costa [ 000866034 ] Pawandeep Kaur [000892129]
  * @date 10-08-2023
  * 
  * Assignment 01 : App Description
